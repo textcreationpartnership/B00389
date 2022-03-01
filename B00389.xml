@@ -1,0 +1,1020 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lucans first booke translated line for line, by Chr. Marlovv.</title>
+            <title>Pharsalia. English &amp; Latin. 1600</title>
+            <author>Lucan, 39-65.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00389</idno>
+            <idno type="STC">STC 16883.5</idno>
+            <idno type="STC">ESTC S94045</idno>
+            <idno type="EEBO-CITATION">44920361</idno>
+            <idno type="OCLC">ocm 44920361</idno>
+            <idno type="VID">173806</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173806)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2099:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lucans first booke translated line for line, by Chr. Marlovv.</title>
+                  <title>Pharsalia. English &amp; Latin. 1600</title>
+                  <author>Lucan, 39-65.</author>
+                  <author>Blount, Edward, fl. 1588-1632.</author>
+                  <author>Marlowe, Christopher, 1564-1593.</author>
+                  <author>Thorpe, Thomas, 1570?-1635?</author>
+               </titleStmt>
+               <extent>[30] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by P. Short, and are to be sold by Walter Burre at the Signe of the Flower de Luce in Paules Churchyard,</publisher>
+                  <pubPlace>At London, :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A², B-C⁴, D⁵.</note>
+                  <note>Dedication addressed to Edward Blunt [sic] by Thom. Thorpe.</note>
+                  <note>Printer's device on t.p. (McK. 119, without lettering).</note>
+                  <note>Imperfect: cropped and tightly bound with loss of print.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pharsalus, Battle of, 48 B.C.</term>
+               <term>Rome --  History --  Civil War, 49-48 B.C.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173806:1"/>
+            <p>
+               <hi>LVCANS</hi> FIRST BOOKE TRANSLATED LINE FOR LINE, BY CHR. MARLOVV.</p>
+            <figure>
+               <figDesc>serpent cross</figDesc>
+            </figure>
+            <p>
+               <hi>AT LONDON,</hi> Printed by P. Short, and are to be ſold by Walter Burre at the Signe of the Flower de Luce in Paules Churchyard, 1600.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173806:2"/>
+            <pb facs="tcp:173806:2"/>
+            <head>TO HIS KIND, AND TRVE FRIEND: EDWARD BLVNT.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">B</seg>Lount:</salute>
+            </opener>
+            <p>I purpoſe to be blu<g ref="char:cmbAbbrStroke">̄</g>t with you, &amp; out of my dulneſſe to encounter you with a <hi>Dedication</hi> in the memory of that pure Elementall wit <hi>Chr. Mar<g ref="char:EOLhyphen"/>low;</hi> whoſe ghoaſt or <hi>Genius</hi> is to be ſeene walke the <hi>Churchyard</hi> in (at the leaſt) three or foure ſheets. Me thinks you ſhould pre<g ref="char:EOLhyphen"/>ſently looke wilde now, and growe humorouſly frantique vpon the taſt of it. Well, leaſt you ſhould, let mee tell you. This ſpirit was ſometime a familiar of your own, <hi>Lucans firſt booke tranſlated;</hi> which (in regard of your old right in it) J haue rais'd in the circle of your Patronage. But ſtay now <hi>Edward</hi> (if J miſtake not) you are to accommo<g ref="char:EOLhyphen"/>date your ſelfe with ſome fewe inſtructions, touching the property of a Patron, that you are not yet poſſeſt of; and to ſtudy them for your better grace as our Gallants do fa<g ref="char:EOLhyphen"/>ſhions. Firſt you muſt be proud and thinke you haue merit inough in you, though you are ne're ſo emptie; then when I bring you the booke take phyſicke, and keepe ſtate, aſsigne me a time by your man to come againe, and afore the day be ſure to haue chang'd your lodging; in the meane time ſleepe little, and ſweat with the inuention of ſome pittiful dry ieſt or two which you may happen to vtter, with ſome litle (or not at al) marking of your friends when you haue found a place for them to come in at: or if by chance ſome<g ref="char:EOLhyphen"/>thing has dropt from you worth the taking vp weary all
+<pb facs="tcp:173806:3" rendition="simple:additions"/>that come to you with the often repetition of it; Cenſure ſcornefully inough, and ſomewhat like a trauailer; com<g ref="char:EOLhyphen"/>mend nothing leaſt you diſcredit your (that which you would ſeeme to haue) iudgement. Theſe things if you can mould your ſelfe to them <hi>Ned</hi> I make no queſtion but they will not become you. One ſpeciall vertue in our Patrons of theſe daies J haue promiſt my ſelfe you ſhall fit excel<g ref="char:EOLhyphen"/>lently, which is to giue nothing; Yes, thy loue J will chal<g ref="char:EOLhyphen"/>lenge as my peculiar Obiect both in this, and (J hope) ma<g ref="char:EOLhyphen"/>nie more ſucceeding offices: Farewell, J affect not the world ſhould meaſure my thoughts to thee by a ſcale of this Nature: Leaue to thinke good of me when J fall from thee.</p>
+            <closer>
+               <signed>Thine in all rites of perfect friendſhip, THOM. THORPE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="poem">
+            <pb facs="tcp:173806:3"/>
+            <head>THE FIRST BOOKE OF LVCAN TRANSLATED INTO ENGLISH.</head>
+            <lg>
+               <l>WARS worſe then ciuill on <hi>Theſsalian</hi> playnes,</l>
+               <l>And outrage ſtrangling law &amp; people ſtrong,</l>
+               <l>We ſing, whoſe conquering ſwords their own breaſts lau<g ref="char:cmbAbbrStroke">̄</g>cht</l>
+               <l>Armies alied, the kingdoms league vprooted</l>
+               <l>Th'affrighted worlds force: bent on publique ſpoile,</l>
+               <l>Trumpets, and drums like deadly threatning other,</l>
+               <l>Eagles alike diſplaide, darts anſwering darts.</l>
+            </lg>
+            <lg>
+               <l>Romans, what madnes, what huge luſt of warre</l>
+               <l>Hath made <hi>Barbarians</hi> drunke with <hi>latin</hi> bloud?</l>
+               <l>Now Babilon, (proud through our ſpoile) ſhould ſtoop</l>
+               <l>While ſlaughtred <hi>Craſſus</hi> ghoſt walks vnreueng'd.</l>
+               <l>Will ye wadge war, for which you ſhall not triumph?</l>
+            </lg>
+            <lg>
+               <l>Ay me, O what a world of land and ſea,</l>
+               <l>Might they haue won whom ciuil broiles haue ſlaine,</l>
+               <l>As far as <hi>Titan</hi> ſprings where night dims heauen,</l>
+               <l>I to the <hi>Torrid Zone</hi> vvhere midday burnes,</l>
+               <l>And vvhere ſtiffe vvinter vvhom no ſpring reſolues,</l>
+               <l>Fetters the Euxin ſea, vvith chaines of yee:</l>
+               <l>
+                  <hi>Scythia</hi> and vvilde <hi>Armenia</hi> had bin yoakt,</l>
+            </lg>
+            <lg>
+               <l>And they of <hi>Nilus</hi> mouth (if there liue any.)</l>
+               <l>Roome if thou take delight in impious vvarre,</l>
+               <l>Firſt conquer all the earth, then turne thy force</l>
+               <l>Againſt thy ſelfe: as yet thou vvants not foes,</l>
+            </lg>
+            <pb facs="tcp:173806:4"/>
+            <lg>
+               <l>That now the walles of houſes halfe reaer'd totter,</l>
+               <l>That rampiers fallen down, huge heapes of ſtone</l>
+               <l>Lye in our townes, that houſes are abandon'd,</l>
+               <l>And few liue that behold their ancient ſeats;</l>
+               <l>
+                  <hi>Jtaly</hi> many yeares hath lyen vntil'd,</l>
+               <l>And choakt with thorns, that greedy earth wa<g ref="char:cmbAbbrStroke">̄</g>ts hinds</l>
+               <l>Fierce <hi>Pirhus,</hi> neither thou nor <hi>Hanniball</hi>
+               </l>
+               <l>Art cauſe, no forraine foe could ſo afflict vs,</l>
+               <l>Theſe plagues ariſe from wreake of ciuill power.</l>
+            </lg>
+            <lg>
+               <l>But if for <hi>Nero</hi> (then vnborne) the fates</l>
+               <l>Would find no other meanes, (and gods not ſleightly</l>
+               <l>Purchaſe immortal thrones; nor <hi>Joue</hi> ioide heauen</l>
+               <l>Vntill the cruel Giants war was done.)</l>
+               <l>We plaine not heauens, but gladly beare theſe euils</l>
+               <l>For <hi>Neros</hi> ſake: <hi>Pharſalia</hi> grone with ſlaughter;</l>
+               <l>And <hi>Carthage</hi> ſoules be glutted with our blouds;</l>
+               <l>At <hi>Munda</hi> let the dreadfull battailes ioyne;</l>
+               <l>Adde <hi>Caeſar;</hi> to theſe ills <hi>Peruſian</hi> famine;</l>
+               <l>The <hi>Mutin</hi> toyles; the fleet at <hi>Leuca</hi> ſuncke;</l>
+               <l>And cruel field, nere burning <hi>Aetna</hi> fought:</l>
+            </lg>
+            <lg>
+               <l>Yet Room is much bound to theſe ciuil armes,</l>
+               <l>Which made thee Emperor, thee (ſeeing thou being old</l>
+               <l>Muſt ſhine a ſtar) ſhal heauen (whom thou loueſt,)</l>
+               <l>Receiue with ſhouts; where thou wilt raigne as King,</l>
+               <l>Or mount the ſunnes flame bearing charriot,</l>
+               <l>And with bright reſtles fire compaſſe the earth,</l>
+               <l>Vndaunted though her former guide be chang'd,</l>
+               <l>
+                  <hi>Nature,</hi> and euery power ſhal giue thee place,</l>
+               <l>What God it pleaſe thee be, or where to ſway:</l>
+            </lg>
+            <pb facs="tcp:173806:4"/>
+            <lg>
+               <l>But neither chuſe the north t'erect thy ſeat;</l>
+               <l>Nor yet the aduerſe reking ſoutherne pole,</l>
+               <l>Whence thou ſhouldſt view thy Roome with ſquinting beams</l>
+               <l>If any one part of vaſt heauen thou ſwayeſt</l>
+               <l>The burdened axes with thy force will bend;</l>
+               <l>The midſt is beſt; that place is pure, and bright,</l>
+               <l>Their <hi>Caeſar</hi> may'ſt thou ſhine and no cloud dim thee;</l>
+               <l>Then men from warſhal bide in league, and eaſe,</l>
+               <l>Peace through the world from <hi>Janus Phane</hi> ſhal flie,</l>
+               <l>And boult the brazen gates with barres of Iron.</l>
+               <l>Thou <hi>Caeſar</hi> at this inſtant art my God,</l>
+               <l>Thee if I inuocate, I ſhall not need</l>
+               <l>To craue <hi>Appolles</hi> ayde, or <hi>Bacchus</hi> helpe;</l>
+               <l>Thy power inſpires the <hi>Muze</hi> that ſings this war.</l>
+            </lg>
+            <lg>
+               <l>The cauſes firſt, I purpoſe to vnfould</l>
+               <l>Of theſe garboiles, whence ſprings along diſcourſe,</l>
+               <l>And what made madding people ſhake off peace.</l>
+            </lg>
+            <lg>
+               <l>The fates are enuious, high ſeats quickly periſh,</l>
+               <l>Vnder great burdens fals are euer greeuous;</l>
+               <l>Roome was ſo great it could not beare it ſelfe:</l>
+               <l>So when this worlds compounded vnion breakes,</l>
+               <l>Time ends and to old <hi>Chaos</hi> all things turne;</l>
+               <l>Confuſed ſtars ſhal meete, celeſtiall fire</l>
+               <l>Fleete on the flouds, the earth ſhoulder the ſea,</l>
+               <l>Affording it no ſhoare, and <hi>Phoebe's</hi> waine,</l>
+               <l>Chace <hi>Phoebus</hi> and inrag'd affect his place,</l>
+               <l>And ſtriùe to ſhine by day, and ful of ſtrife</l>
+               <l>Diſolue the engins of the broken world.</l>
+            </lg>
+            <pb facs="tcp:173806:5"/>
+            <lg>
+               <l>All great things cruſh themſelues, ſuch end the gods,</l>
+               <l>Allot the height of honor, men ſo ſtrong.</l>
+               <l>By land, and ſea, no forreine force could ruine:</l>
+               <l>O Roome thy ſelfe art cauſe of all theſe euils,</l>
+               <l>Thy ſelfe thus ſhiuered out to three mens ſhares,</l>
+               <l>Dire league of partners in a kingdome laſt not.</l>
+            </lg>
+            <lg>
+               <l>O faintly ioyn'd friends with ambition blind,</l>
+               <l>Why ioine you force to ſhare the world betwixt you?</l>
+               <l>While th'earth, the ſea, and ayre, the earth ſuſtaines;</l>
+               <l>While <hi>Titan</hi> ſtriues againſt the worlds ſwift courſe;</l>
+               <l>Or <hi>Cynthia</hi> nights Queene waights vpon the day;</l>
+               <l>Shall neuer faith be found in fellow kings.</l>
+               <l>Dominion cannot ſuffer partnerſhip;</l>
+               <l>This need no forraine proofe, nor far fet ſtory:</l>
+               <l>Roomes infant walles were ſteept in brothers bloud;</l>
+               <l>Nor then was land, or ſea, to breed ſuch hate,</l>
+               <l>A towne with one poore church ſet them at oddes.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Caeſars,</hi> and <hi>Pompeys</hi> iarring loue ſoone ended,</l>
+               <l>T'was peace againſt their wils, betwixt them both</l>
+               <l>Stept <hi>Craſſus</hi> in, euen as the ſlender <hi>Jſthmos,</hi>
+               </l>
+               <l>Betwixt the <hi>Aegean</hi> and the <hi>Ionian</hi> ſea,</l>
+               <l>Keepes each from other, but being worne away</l>
+               <l>They both burſt out, and each incounter other:</l>
+               <l>So when as <hi>Craſſus</hi> wretched death who ſtayd them,</l>
+               <l>Had fild <hi>Aſſirian Carras</hi> wals with bloud,</l>
+               <l>His loſſe made way for Roman outrages.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Parthians</hi> y'afflict vs more then ye ſuppoſe,</l>
+               <l>Being conquered, we are plaugde with ciuil war,</l>
+               <pb facs="tcp:173806:5"/>
+               <l>Swords ſhare our Empire, fortune that made Roome</l>
+               <l>Gouerne the earth, the ſea, the world it ſelfe</l>
+               <l>Would not admit two Lords: for <hi>Julia</hi>
+               </l>
+               <l>Snatcht hence by cruel fates with ominous howles,</l>
+               <l>Bare downe to hell her ſonne the pledge of peace,</l>
+               <l>And all bands of that death preſaging aliance.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Iulia,</hi> had heauen giuen thee longer life</l>
+               <l>Thou hadſt reſtrainde thy headſtrong husbands rage,</l>
+               <l>Yea and thy father to, and ſwords thrown down.</l>
+               <l>Made all ſhake hands as once the <hi>Sabines</hi> did;</l>
+               <l>Thy death broake amity and trainde to war,</l>
+               <l>Theſe Captaines emulous of each others glory.</l>
+            </lg>
+            <lg>
+               <l>Thou feard'ſt (great <hi>Pompey</hi> that late deeds would dim)</l>
+               <l>Olde triumphs, and that <hi>Caeſars</hi> conquering France,</l>
+               <l>Would daſh the wreath thou wearſt for Pirats wracke</l>
+               <l>Thee wars vſe ſtirde, and thoughts that alwaies ſcorn'd</l>
+               <l>A ſecond place; <hi>Pompey</hi> could bide no equall,</l>
+               <l>Nor <hi>Caeſar</hi> no ſuperior, which of both</l>
+               <l>Had iuſteſt cauſe vnlawful tis to iudge:</l>
+               <l>Each ſide had great partakers; <hi>Caeſars</hi> cauſe,</l>
+               <l>The gods abetted; <hi>Cato</hi> likt the other;</l>
+               <l>Both differ'd much, <hi>Pompey</hi> was ſtrooke in yeares,</l>
+               <l>And by long reſt forgot to manage armes,</l>
+               <l>And being popular ſought by liberal gifts,</l>
+               <l>To gaine the light vnſtable commons loue,</l>
+               <l>And ioyed to heare his <hi>Theaters</hi> applauſe;</l>
+               <l>He liu'd ſecure boaſting his former deeds,</l>
+               <l>And thought his name ſufficient to vphold him,</l>
+               <pb facs="tcp:173806:6"/>
+               <l>Like to a tall oake in a fruitfull field,</l>
+               <l>Bearing old ſpoiles and conquerors monuments,</l>
+               <l>Who though his root be weake, and his owne waight</l>
+               <l>Keepe him within the ground, his armes al bare,</l>
+               <l>His body (not his boughs) ſend forth a ſhade;</l>
+               <l>Though euery blaſt it nod, and ſeeme to fal,</l>
+               <l>When all the woods about ſtand bolt vp-right,</l>
+               <l>Yet he alone is held in reuerence.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Caeſars</hi> renowne for war was leſſe, he reſtles,</l>
+               <l>Shaming to ſtriue but where he did ſubdue,</l>
+               <l>When yre, or hope prouokt, heady, &amp; bould,</l>
+               <l>At al times charging home, &amp; making hauock;</l>
+               <l>Vrging his fortune, truſting in the gods</l>
+               <l>Deſtroying what withſtood his proud deſires,</l>
+               <l>And glad when bloud, &amp; ruine made him way:</l>
+               <l>So thunder which the wind teares from the cloudes,</l>
+               <l>With cracke of riuen ayre and hideous ſound,</l>
+               <l>Filling the world, leapes out and throwes forth fire,</l>
+               <l>Affrights poore fearefull men, and blaſts their eyes</l>
+               <l>With ouerthwarting flames, and raging ſhoots</l>
+               <l>Alongſt the ayre and not reſiſting it</l>
+               <l>Falls, and returnes, and ſhiuers where it lights.</l>
+               <l>Such humors ſtirde them vp; but this warrs ſeed,</l>
+               <l>Was euen the ſame that wrack's all great dominions.</l>
+            </lg>
+            <lg>
+               <l>When fortune made vs lords of all, wealth flowed,</l>
+               <l>And then we grew licencious and rude,</l>
+               <l>The ſoldiours pray, and rapine brought in ryot,</l>
+               <l>Men tooke delight in Iewels, houſes, plate,</l>
+               <pb facs="tcp:173806:6"/>
+               <l>And ſcorn'd old ſparing diet, and ware robes</l>
+               <l>Too light for women; Pouerty (who hatcht</l>
+               <l>Roomes greateſt wittes) was loath'd, and al the world</l>
+               <l>Ranſanckt for golde, which breeds the world decay;</l>
+               <l>And then large limits had their butting lands,</l>
+               <l>The ground which <hi>Curius</hi> and <hi>Camillus</hi> till'd,</l>
+               <l>Was ſtretcht vnto the fields of hinds vnknowne;</l>
+               <l>Againe, this people could not brooke calme peace,</l>
+               <l>Them freedome without war might not ſuffice,</l>
+               <l>Quarrels were rife, greedy deſire ſtil poore</l>
+               <l>Did vild deeds, then t'was worth the price of bloud,</l>
+               <l>And deem'd renowne to ſpoile their natiue towne,</l>
+               <l>Force maſtered right, the ſtrongeſt gouern'd all,</l>
+               <l>Hence came it that th'edicts were ouerrul'd,</l>
+               <l>That lawes were broake, <hi>Tribunes</hi> with <hi>Conſuls</hi> ſtroue,</l>
+               <l>Sale made of offices, and peoples voices,</l>
+               <l>Bought by themſelues &amp; ſolde, and euery yeare</l>
+               <l>Frauds and corruption in the field of <hi>Mars;</hi>
+               </l>
+               <l>Hence intereſt and deuouring vſury ſprang,</l>
+               <l>Faiths breach, &amp; hence came war to moſt men welcom.</l>
+               <l>Now <hi>Caeſar</hi> ouerpaſt the ſnowy <hi>Alpes,</hi>
+               </l>
+               <l>His mind was troubled, and he aim'd at war,</l>
+               <l>And comming to the foord of <hi>Rubicon,</hi>
+               </l>
+               <l>At night in dreadful viſion fearefull Roome,</l>
+               <l>Mourning appear'd, whoſe hoary hayres were torne,</l>
+               <l>And on her Turret, bearing head diſperſt,</l>
+               <l>And armes all naked, who with broken ſighes,</l>
+               <l>And ſtaring, thus beſpoke, what mean'ſt thou <hi>Caeſar?</hi>
+               </l>
+               <pb facs="tcp:173806:7"/>
+               <l>Whether goes my ſtandarde? Romans if ye be,</l>
+               <l>And beare true harts, ſtay heare: this ſpectacle</l>
+               <l>Stroake <hi>Caeſars</hi> hart with feare, his hayre ſtoode vp,</l>
+               <l>And faintnes numm'd his ſteps there on the brincke:</l>
+               <l>He thus cride out: Thou thunderer that guardſt</l>
+               <l>Roomes mighty walles built on <hi>Tarpeian</hi> rocke,</l>
+               <l>Ye gods of <hi>Phrigia</hi> and <hi>Iûlus</hi> line,</l>
+               <l>
+                  <hi>Quirinus</hi> rites and <hi>Latian Joue</hi> aduanc'd,</l>
+               <l>On <hi>Alba</hi> hill, ô <hi>Veſtall</hi> flames, ô Roome,</l>
+               <l>My thoughts ſole <hi>goddes,</hi> aide mine enterpriſe,</l>
+               <l>I hate thee not, to thee my conqueſts ſtoope,</l>
+               <l>
+                  <hi>Caeſar</hi> is thine, ſo pleaſe it thee, thy ſoldier;</l>
+               <l>He, he afflicts Roome that made me Roomes foe.</l>
+               <l>This ſaid, he laying aſide all lets of war,</l>
+               <l>Approcht the ſwelling ſtreame with drum and enſigne,</l>
+               <l>Like to a Lyon of ſcortcht deſart <hi>Affricke,</hi>
+               </l>
+               <l>Who ſeeing hunters pauſeth till fell wrath</l>
+               <l>And kingly rage increaſe, then hauing whiskt</l>
+               <l>His taile athwart his backe, and creſt heau'd vp,</l>
+               <l>With iawes wide open ghaſtly roaring out;</l>
+               <l>(Albeit the <hi>Moores</hi> light Iauelin or his ſpeare</l>
+               <l>Sticks in his ſide) yet runs vpon the hunter.</l>
+            </lg>
+            <lg>
+               <l>In ſummer time the purple <hi>Rubicon,</hi>
+               </l>
+               <l>Which iſſues from a ſmall ſpring is but ſhallow,</l>
+               <l>And creepes along the vales deuiding iuſt</l>
+               <l>The bounds of <hi>Jtaly,</hi> from <hi>Ciſalpin Fraunce;</hi>
+               </l>
+               <l>But now the winters wrath and wat'ry moone,</l>
+               <l>Being three daies old inforſt the floud to ſwell,</l>
+               <pb facs="tcp:173806:7"/>
+               <l>And frozen <hi>Alpes</hi> thaw'd with reſoluing winds.</l>
+            </lg>
+            <lg>
+               <l>The thunder hou'd horſe in a crooked line,</l>
+               <l>To ſcape the violence of the ſtreame firſt waded,</l>
+               <l>Which being broke the foot had eaſie paſſage.</l>
+            </lg>
+            <lg>
+               <l>As ſoone as <hi>Caeſar</hi> got vnto the banke</l>
+               <l>And bounds of Italy; here, here (ſaith he)</l>
+            </lg>
+            <lg>
+               <l>An end of peace; here end polluted lawes;</l>
+               <l>Hence leagues, and couenants; Fortune thee I follow,</l>
+               <l>Warre and the deſtinies ſhall trie my cauſe.</l>
+            </lg>
+            <lg>
+               <l>This ſaid, the reſtles generall through the darke.</l>
+               <l>(Swifter then bullets throwne from Spaniſh ſlinges,</l>
+               <l>Ordarts which <hi>Parthians</hi> backward ſhoot (marcht on</l>
+               <l>And then (when <hi>Lucifer</hi> did ſhine alone,</l>
+               <l>And ſome dim ſtars) he <hi>Arriminum</hi> enter'd:</l>
+               <l>Day roſe and viewde theſe tumultes of the war;</l>
+               <l>Whether the gods, or bluſtring ſouth were cauſe</l>
+               <l>I know not, but the cloudy ayre did frown;</l>
+               <l>The ſoldiours hauing won the market place,</l>
+               <l>There ſpred the colours, with confuſed noiſe</l>
+               <l>Of tru<g ref="char:cmbAbbrStroke">̄</g>pets clange, ſhril cornets, whiſtling fifes;</l>
+               <l>The people ſtarted; young men left their beds;</l>
+               <l>And ſnatcht armes neer their houſhold gods hung vp</l>
+               <l>Such as peace yeelds; wormeaten leatherne targets,</l>
+               <l>Through which the wood peer'd, headles darts, olde ſwords</l>
+               <l>With vgly teeth of blacke ruſt fouly ſcarr'd:</l>
+            </lg>
+            <lg>
+               <l>But ſeeing white Eagles, &amp; Roomes flags wel known,</l>
+               <l>And lofty <hi>Caeſar</hi> in the thickeſt throng,</l>
+               <l>They ſhooke for feare, &amp; cold benumm'd their lims,</l>
+            </lg>
+            <pb facs="tcp:173806:8"/>
+            <lg>
+               <l>And muttering much, thus to the<g ref="char:cmbAbbrStroke">̄</g>ſelues complain'd.</l>
+               <l>O wals vnfortunate too neere to France,</l>
+               <l>Predeſtinate to ruine; all lands elſe</l>
+               <l>Haue ſtable peace, here wars rage firſt begins,</l>
+               <l>We bide the firſt brunt, ſafer might we dwel,</l>
+               <l>Vnder the froſty beare, or parching Eaſt,</l>
+               <l>VVagons or tents, then in this frontire towne,</l>
+               <l>We firſt ſuſtain'd the vproares of the <hi>Gaules,</hi>
+               </l>
+               <l>And furious <hi>Cymbrians</hi> and of <hi>Carthage</hi> moores,</l>
+               <l>As oft as Roome was ſackt, here gan the ſpoile:</l>
+            </lg>
+            <lg>
+               <l>Thus ſighing whiſpered they, and none durſt ſpeake</l>
+               <l>And ſhew their feare, or griefe: but as the fields</l>
+               <l>When birds are ſilent thorough winters rage;</l>
+               <l>Or ſea far from the land, ſo all were whiſt.</l>
+            </lg>
+            <lg>
+               <l>Now light had quite diſſolu'd the myſty might,</l>
+               <l>And <hi>Caeſars</hi> mind vnſetled muſing ſtood;</l>
+               <l>But gods and fortune prickt him to this war,</l>
+               <l>Infringing all excuſe of modeſt ſhame,</l>
+               <l>And laboring to approue his quarrell good.</l>
+            </lg>
+            <lg>
+               <l>The angry Senate vrging <hi>Grachus</hi> deeds,</l>
+               <l>From doubtfull Roome wrongly expel'd the <hi>Tribunes,</hi>
+               </l>
+               <l>That croſt them; both which now approacht the camp,</l>
+               <l>And with them <hi>Curio;</hi> ſometime <hi>Tribune</hi> too,</l>
+               <l>One that was feed for <hi>Caeſar,</hi> and whoſe tongue</l>
+               <l>Could tune the people to the Nobles mind:</l>
+               <l>
+                  <hi>Caeſar</hi> (ſaid he) while eloquence preuail'd,</l>
+               <l>And I might pleade, and draw the Commons minds</l>
+               <l>To fauour thee, againſt the Senats will.</l>
+               <pb facs="tcp:173806:8"/>
+               <l>Fiue yeeres I lengthned thy commaund in France;</l>
+               <l>But law being put to ſilence by the wars;</l>
+               <l>We from our houſes driuen, moſt willingly</l>
+               <l>Suffered exile: let thy ſword bring vs home.</l>
+               <l>Now while their part is weake, and feares, march hence</l>
+               <l>Where men are ready, lingering euer hurts:</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ten yeares wonſt thou France; Roome may be won</l>
+               <l>With farre leſſe toile, and yet the honors more;</l>
+               <l>Few battailes fought with proſperous ſucceſſe</l>
+               <l>May bring her downe, and with her all the world;</l>
+               <l>Nor ſhalt thou triumph when thou comſt to Roome;</l>
+               <l>Nor capitall be adorn'd with ſacred bayes:</l>
+               <l>Enuy denies all, with thy bloud muſt thou</l>
+               <l>Abie thy conqueſt paſt: the ſonne decrees</l>
+               <l>To expel the father; ſhare the world thou canſt not;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nioy it all thou maieſt: thus <hi>Curio</hi> ſpake,</l>
+               <l>And therewith <hi>Caeſar</hi> prone ennough to warre,</l>
+               <l>Was ſo incenſt as are <hi>Eleius</hi> ſteedes</l>
+               <l>With clamors: who though lockt and chaind in ſtalls,</l>
+               <l>Souſe downe the wals, and make a paſſage forth:</l>
+               <l>Straight ſummon'd he his ſeuerall companies</l>
+               <l>Vnto the ſtandard: his graue looke appeaſd</l>
+               <l>The wraſtling tumult, and right hand made ſilence:</l>
+               <l>And thus he ſpake; you that with me haue borne</l>
+               <l>A thouſand brunts, and tride me ful ten yeeres,</l>
+               <l>See how they quit our bloudſhed in the North;</l>
+               <l>Our friends death; and our wounds; our wintering</l>
+               <l>Vnder the Alpes; Roome rageth now in armes</l>
+               <pb facs="tcp:173806:9"/>
+               <l>As if the <hi>Carthage Hannibal</hi> were neere;</l>
+               <l>Cornets of horſe are muſtered for the field;</l>
+               <l>Woods turn'd to ſhips; both land and ſea againſt vs:</l>
+               <l>Had forraine wars ill thriu'd; or wrathful France</l>
+               <l>Purſu'd vs hither, how were we beſtead</l>
+               <l>When comming conqueror Roome afflicts me thus?</l>
+               <l>Let come their leaders whom long peace hath quail'd;</l>
+               <l>Raw ſoldiours lately preſt; and troupes of gownes;</l>
+               <l>Brabbling <hi>Marcellus; Cato</hi> whom fooles reuerence;</l>
+               <l>Muſt <hi>Pompeis</hi> followers with ſtrangers ayde,</l>
+               <l>(Whom fro<g ref="char:cmbAbbrStroke">̄</g> his youth he bribde) needs make him king?</l>
+               <l>And ſhal he triumph long before his time,</l>
+               <l>And hauing once got head ſtill ſhal he raigne?</l>
+               <l>What ſhould I talke of mens corne reapt by force,</l>
+               <l>And by him kept of purpoſe for a dearth,</l>
+               <l>Who ſees not warre ſit by the quiuering Iudge;</l>
+               <l>And ſentence giuen in rings of naked ſwords,</l>
+               <l>And lawes aſſailde, and arm'd men in the <hi>Senate;</hi>
+               </l>
+               <l>Twas his troupe hem'd in <hi>Milo</hi> being accuſde;</l>
+               <l>And now leaſt age might waine his ſtate, he caſts</l>
+               <l>For ciuill warre, wherein through vſe he's known</l>
+               <l>To exceed his maiſter, that arch-traitor <hi>Sylla.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A brood of barbarous <hi>Tygars</hi> hauing lapt</l>
+               <l>The bloud of many a heard, whilſt with their dams</l>
+               <l>They kennel'd in <hi>Hircania</hi> euermore</l>
+               <l>Wil rage and pray: ſo <hi>Pompey</hi> thou hauing lickt</l>
+               <l>Warme goare from <hi>Syllas</hi> ſword art yet athirſt,</l>
+               <l>Iawes, fleſh, with bloud continue murderous.</l>
+               <pb facs="tcp:173806:9"/>
+               <l>Speake, when ſhall this thy long vſurpt power end?</l>
+               <l>What end of miſchiefe? <hi>Sylla</hi> teaching thee,</l>
+               <l>At laſt learne wretch to leaue thy monarchy;</l>
+               <l>What, now <hi>Scicillian</hi> Pirats are ſuppreſt,</l>
+               <l>And <hi>Jaded,</hi> king of <hi>Pontus</hi> poiſoned ſlaine,</l>
+               <l>Muſt <hi>Pompey</hi> as his laſt foe plume on me,</l>
+               <l>Becauſe at his commaund I wound not vp</l>
+               <l>My conquering Eagles? ſay I merit nought,</l>
+               <l>Yet for long ſeruice done, reward theſe men,</l>
+               <l>And ſo they triumph, be't with whom ye wil.</l>
+               <l>Whether now ſhal theſe olde bloudles ſoules repaire?</l>
+               <l>What ſeates for their deſerts? what ſtore of ground</l>
+               <l>For ſeruitors to till? what <hi>Colonies</hi>
+               </l>
+               <l>To reſt their bones? ſay <hi>Pompey,</hi> are theſe worſe</l>
+               <l>Then Pirats of <hi>Sycillia?</hi> they had houſes:</l>
+               <l>Spead, ſpread theſe flags that ten years ſpace haue con<g ref="char:EOLhyphen"/>quer'd,</l>
+               <l>Lets vſe our tried force, they that now thwart right</l>
+               <l>In wars wil yeeld to wrong: the gods are with vs,</l>
+               <l>Neither ſpoile, nor kingdom ſeeke we by theſe armes,</l>
+               <l>But Roome at thraldoms feet to rid from tyrants.</l>
+            </lg>
+            <lg>
+               <l>This ſpoke none anſwer'd but a murmuring buz</l>
+               <l>Th'vnſtable people made: their houſhold gods</l>
+               <l>And loue to Room (thogh ſlaughter ſteeld their harts</l>
+               <l>And minds were prone) reſtrain'd them; but wars loue</l>
+               <l>And <hi>Caeſars</hi> awe daſht all: then <hi>Lalius</hi>
+               </l>
+               <l>The chiefe <hi>Centurion</hi> crown'd with Oaken leaues,</l>
+               <l>For ſauing of a Romaine Citizen,</l>
+               <l>Steptforth, and cryde, chiefe leader of Rooms force,</l>
+               <pb facs="tcp:173806:10"/>
+               <l>So be I may be bold to ſpeake a truth:</l>
+               <l>We grieue at this thy patience and delay,</l>
+               <l>What doubtſt thou vs? euen nowe when youthfull bloud</l>
+               <l>Pricks forth our liuely bodies, and ſtrong armes</l>
+               <l>Can mainly throw the dart; wilt thou indure</l>
+               <l>Theſe purple groomes? that <hi>Senates</hi> tyranny?</l>
+               <l>Is conqueſt got by ciuill war ſo hainous?</l>
+               <l>Well, leade vs then to <hi>Syrtes</hi> deſart ſhoare;</l>
+               <l>Or <hi>Scythia;</hi> or hot <hi>Libiaes</hi> thirſty ſands.</l>
+               <l>This hand that all behind vs might be quail'd,</l>
+               <l>Hath with thee paſt the ſwelling Ocean;</l>
+               <l>And ſwept the foming breſt of <hi>Articks Rhene,</hi>
+               </l>
+               <l>Loue ouer-rules my will, I muſt obay thee,</l>
+               <l>
+                  <hi>Caeſar,</hi> he whom I heare thy trumpets charge</l>
+               <l>I hould no Romaine; by theſe ten bleſt enſignes</l>
+               <l>And all thy ſeueral triumphs, ſhouldſt thou bid me</l>
+               <l>Intombe my ſword within my brothers bowels;</l>
+               <l>Or fathers throate; or womens groning wombe;</l>
+               <l>This hand (albeit vnwilling) ſhould performe it;</l>
+               <l>Or rob the gods; or ſacred temples fire:</l>
+               <l>Theſe troupes ſhould ſoone pull down the church of <hi>Joue,</hi>
+               </l>
+               <l>If to incampe on <hi>Thuſcan Tybers</hi> ſtreames;</l>
+               <l>Ile bouldly quarter out the fields of Rome;</l>
+               <l>What wals thou wilt be leaueld with the ground,</l>
+               <l>Theſe hands ſhall thruſt the ram, and make them flie,</l>
+               <l>Albeit the Citty thou wouldſt haue ſo ra'ſt</l>
+               <l>Be Roome it ſelfe. Here euery band applauded,</l>
+               <l>And with their hands held vp, all ioyntly cryde</l>
+               <pb facs="tcp:173806:10"/>
+               <l>They'ill follow where he pleaſe, the ſhowts re<g ref="char:cmbAbbrStroke">̄</g>t heaue<g ref="char:cmbAbbrStroke">̄</g>,</l>
+               <l>As when againſt pine bearing <hi>Oſſa's</hi> rocks,</l>
+               <l>Beates <hi>Thracian Boreas;</hi> or when trees bowde down,</l>
+               <l>And ruſtling ſwing vp as the wind fets breath.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Caeſar</hi> ſaw his army proane to war,</l>
+               <l>And fates ſo bent, leaſt ſloth and long delay</l>
+               <l>Might croſſe him, he withdrew his troupes fro<g ref="char:cmbAbbrStroke">̄</g> France,</l>
+               <l>And in all quarters muſters men for Roome.</l>
+            </lg>
+            <lg>
+               <l>They by <hi>Lemannus</hi> nooke forſooke their tents;</l>
+               <l>They whom the <hi>Lingones</hi> foild with painted ſpeares,</l>
+               <l>Vnder the rockes by crooked <hi>Vogeſus;</hi>
+               </l>
+               <l>And many came from ſhallow <hi>Jſara,</hi>
+               </l>
+               <l>Who running long, fals in a greater floud,</l>
+               <l>And ere he ſees the ſea looſeth his name;</l>
+               <l>The yellow <hi>Ruthens</hi> left their garriſons;</l>
+               <l>Mild <hi>Atax</hi> glad it beares not Roman bloats;</l>
+               <l>And frontier <hi>Varus</hi> that the campe is farre,</l>
+               <l>Sent aide; ſo did <hi>Alcides</hi> port, whoſe ſeas</l>
+               <l>Eate hollow rocks, and where the north-weſt wind;</l>
+               <l>Nor <hi>Zephir</hi> rules not, but the north alone,</l>
+               <l>Turmoiles the coaſt, and enterance forbids;</l>
+               <l>And others came from that vncertaine ſhore,</l>
+               <l>Which is nor ſea, nor land, but oft times both,</l>
+               <l>And changeth as the Ocean ebbes and flowes:</l>
+               <l>Whether the ſea roul'd alwaies from that point,</l>
+               <l>Whence the wind blowes ſtil forced to and fro;</l>
+               <l>Or that the wandring maine follow the moone?</l>
+               <l>Or flaming <hi>Titan</hi> (feeding on the deepe,</l>
+               <pb facs="tcp:173806:11"/>
+               <l>Puls them aloft, and makes thè ſurge kiſſe heauen,</l>
+               <l>
+                  <hi>Philoſophers</hi> looke you, for vnto me</l>
+               <l>Thou cauſe what ere thou be whom God aſſignes,</l>
+               <l>This great effect, art hid. They came that dwell</l>
+               <l>By <hi>Nemes</hi> fields, and bankes of <hi>Satirus,</hi>
+               </l>
+               <l>Where <hi>Tarbels</hi> winding ſhoares imbrace the ſea,</l>
+               <l>The <hi>Santons</hi> that reioyce in <hi>Caeſars</hi> loue,</l>
+               <l>Thoſe of <hi>Bituriges</hi> and light <hi>Axon</hi> pikes;</l>
+               <l>And they of <hi>Rhene,</hi> and <hi>Leuca</hi> cunning darters,</l>
+               <l>And <hi>Sequana</hi> that well could manage ſteeds;</l>
+               <l>The <hi>Belgians</hi> apt to gouerne <hi>Brittiſh</hi> cars;</l>
+               <l>Th' <hi>Auerni,</hi> too which bouldly faine themſelues;</l>
+               <l>The Romanes brethren, ſprung of <hi>Ilian</hi> race;</l>
+               <l>The ſtubborne <hi>Neruians</hi> ſtaind with <hi>Cottas</hi> bloud;</l>
+               <l>And <hi>vangions</hi> who like thoſe of <hi>Sarmata,</hi>
+               </l>
+               <l>Were open ſlops: and fierce <hi>Batauians,</hi>
+               </l>
+               <l>Whome trumpets clang incites, and thoſe that dwel</l>
+               <l>By <hi>Cyngas</hi> ſtreame, and where ſwift <hi>Rhodanus</hi>
+               </l>
+               <l>Driues <hi>Araris</hi> to ſea; They neere the hils,</l>
+               <l>Vnder whoſe hoary rocks <hi>Gebenna</hi> hangs;</l>
+               <l>And <hi>Treuier;</hi> thou being glad that wars are paſt thee;</l>
+               <l>And you late ſhorne <hi>Ligurians,</hi> who were wont</l>
+               <l>In large ſpread heire to exceed the reſt of France;</l>
+               <l>And where to <hi>Heſus,</hi> and fell <hi>Mercury (Joue)</hi>
+               </l>
+               <l>They offer humane fleſh, and where it ſeemes</l>
+               <l>Bloudy like <hi>Dian,</hi> whom the <hi>Scythians</hi> ſerue;</l>
+               <l>And you French <hi>Bardi,</hi> whoſe immortal pens</l>
+               <l>Renowne the valiant ſoules ſlaine in your wars,</l>
+               <pb facs="tcp:173806:11"/>
+               <l>Sit ſafe at home and chaunt ſweet <hi>Poeſie,</hi>
+               </l>
+               <l>And <hi>Druides</hi> you now in peace renew</l>
+               <l>Your barbarous cuſtomes, and ſiniſter rites,</l>
+               <l>In vnfeld woods, and ſacred groues you dwell,</l>
+               <l>And only gods &amp; heauenly powers you know,</l>
+               <l>Or only know you nothing. For you hold</l>
+               <l>That ſoules paſſe not to ſilent <hi>Erebus</hi>
+               </l>
+               <l>Or <hi>Plutoes</hi> bloodles kingdom, but elſe where</l>
+               <l>Reſume a body: ſo (if truth you ſing)</l>
+               <l>Death brings lo<g ref="char:cmbAbbrStroke">̄</g>g life. Doubtles theſe northren men</l>
+               <l>Whom death the greateſt of all feares affright not,</l>
+               <l>Are bleſt by ſuch ſweet error, this makes them</l>
+               <l>Run on the ſwords point and deſire to die,</l>
+               <l>And ſhame to ſpare life which being loſt is wonne;</l>
+               <l>You likewiſe that repulſt the <hi>Caicke</hi> foe,</l>
+               <l>March towards Roome; and you fierce men of <hi>Rhene</hi>
+               </l>
+               <l>Leauing your countrey open to the ſpoile.</l>
+            </lg>
+            <lg>
+               <l>Theſe being come, their huge power made him bould</l>
+               <l>To mannage greater deeds; the bordering townes</l>
+               <l>He garriſon'd; and <hi>Jtaly</hi> he fild with ſoldiours.</l>
+            </lg>
+            <lg>
+               <l>Vaine fame increaſt true feare, and did inuade</l>
+               <l>The peoples minds, and laide before their eies</l>
+               <l>Slaughter to come, and ſwiftly bringing newes</l>
+               <l>Of preſent war, made many lies and tales,</l>
+               <l>One ſweares his troupes of daring horſemen fought</l>
+               <l>Vpon <hi>Meuanias</hi> plaine, where Buls are graz'd;</l>
+               <l>Other that <hi>Caeſars</hi> barbarous bands were ſpread</l>
+               <l>Along <hi>Nar</hi> floud that into <hi>Tiber</hi> fals,</l>
+               <pb facs="tcp:173806:12"/>
+               <l>And that his owne ten enſignes, and the reſt</l>
+               <l>Marcht not intirely, and yet hide the ground,</l>
+               <l>And that he's much chang'd, looking wild and big,</l>
+               <l>And far more barbarous then the French (his vaſſals)</l>
+               <l>And that he lags behind with them of purpoſe;</l>
+               <l>Borne twixt the <hi>Alpes</hi> &amp; <hi>Rhene,</hi> which he hath brought</l>
+               <l>From out their Northren parts, and that Roome</l>
+               <l>He looking on by theſe men ſhould be ſackt.</l>
+               <l>Thus in his fright did each man ſtrengthen Fame,</l>
+               <l>And without ground, fear'd, what the<g ref="char:cmbAbbrStroke">̄</g>ſelues had faind:</l>
+               <l>Nor were the Commons only ſtrooke to heart</l>
+               <l>With this vaine terror; but the Court, the Senate;</l>
+               <l>The fathers ſelues leapt from their ſeats; and flying</l>
+               <l>Left hateful warre decreed to both the Conſuls.</l>
+               <l>Then with their feare, and danger al diſtract,</l>
+               <l>Their ſway of fleight carries the heady rout</l>
+               <l>That in chain'd troupes breake forth at euery port;</l>
+               <l>You would haue thought their houſes had bin fierd</l>
+               <l>Or dropping-ripe, ready to fall with Ruine,</l>
+               <l>So ruſht the inconſiderate multitude</l>
+               <l>Thorough the Citty hurried headlong on,</l>
+               <l>As if, the only hope (that did remaine</l>
+               <l>To their afflictions) were t'abandon Roome.</l>
+            </lg>
+            <lg>
+               <l>Looke how when ſtormy <hi>Auſter</hi> from the breach</l>
+               <l>Of <hi>Libian Syrtes,</hi> roules a monſtrous waue,</l>
+               <l>Which makes the maine ſaile fal with hideous ſound;</l>
+               <l>The Pilot from the helme leapes in the ſea;</l>
+               <l>And Marriners, albeit the keele be ſound</l>
+               <pb facs="tcp:173806:12"/>
+               <l>Ship wracke themſelues: euen ſo the Citty left,</l>
+               <l>All riſe in armes; nor could the bed-rid parents</l>
+               <l>Keep back their ſons, or womens teares their husbands;</l>
+               <l>They ſtai'd not either to pray or ſacrifice,</l>
+               <l>Their houſhould gods reſtrain the<g ref="char:cmbAbbrStroke">̄</g> not, none lingered,</l>
+               <l>As loath to leaue Roome whom they held ſo deere,</l>
+               <l>Th'irreuocable people flie in troupes.</l>
+            </lg>
+            <lg>
+               <l>O gods that eaſie grant men great eſtates,</l>
+               <l>But hardly grace to keepe them: Roome that flowes</l>
+               <l>With Citizens and Captaines, and would hould</l>
+               <l>The world (were it together) is by cowards</l>
+               <l>Left as a pray now <hi>Caeſar</hi> dòth approach:</l>
+               <l>VVhen Romans are beſieg'd by forraine foes,</l>
+               <l>With ſlender trench they eſcape night ſtratagems,</l>
+               <l>And ſuddaine rampire raiſde of turfe ſnatcht vp</l>
+               <l>Would make them ſleepe ſecurely in their tents.</l>
+               <l>Thou Roome at name of warre runſt from thy ſelfe,</l>
+               <l>And wilt not truſt thy Citty walls one night:</l>
+               <l>VVel might theſe feare, when <hi>Pompey</hi> fear'd and fled,</l>
+               <l>Now euermore leaſt ſome one hope might eaſe</l>
+               <l>The Co<g ref="char:cmbAbbrStroke">̄</g>mons iangling minds, apparant ſignes aroſe,</l>
+               <l>Strange ſights appear'd, the angry threatning gods</l>
+               <l>Fill'd both the earth and ſeas with prodegies;</l>
+               <l>Great ſtore of ſtrange and vnknown ſtars were ſeene</l>
+               <l>VVandering about the North, and rings of fire</l>
+               <l>Flie in the ayre, and dreadfull bearded ſtars,</l>
+               <l>And Commets that preſage the fal of kingdoms.</l>
+            </lg>
+            <lg>
+               <l>The flattering skie gliter'd in often flames,</l>
+               <pb facs="tcp:173806:13"/>
+               <l>And ſundry fiery meteors blaz'd in heauen:</l>
+               <l>Now ſpearlike, long; now like a ſpreading torch:</l>
+               <l>Lightning in ſilence, ſtole forth without clouds,</l>
+               <l>And from the northren climat ſnatching fier</l>
+               <l>Blaſted the Capitoll: The leſſer ſtars</l>
+               <l>Which wont to run their courſe through empty night</l>
+               <l>At noone day muſtered; <hi>Phoebe</hi> hauing fild</l>
+               <l>Her meeting hornes to match her brothers light,</l>
+               <l>Strooke with th'earths ſuddaine ſhadow waxed pale,</l>
+               <l>
+                  <hi>Titan</hi> himſelfe throand in the midſt of heauen,</l>
+               <l>His burning chariot plung'd in ſable cloudes,</l>
+               <l>And whelm'd the world in darkneſſe, making men</l>
+               <l>Diſpaire of day; as did <hi>Thieſtes</hi> towne;</l>
+               <l>
+                  <hi>(Mycenae) Phoebus</hi> flying through the Eaſt:</l>
+               <l>Fierce <hi>Mulciber</hi> vnbarred; <hi>Aetna's</hi> gate,</l>
+               <l>Which flamed not on high; but headlong pitcht</l>
+               <l>Her burning head on bending <hi>Heſpery.</hi>
+               </l>
+               <l>Cole-blacke <hi>Charibdis</hi> whirl'd a ſea of bloud;</l>
+               <l>Fierce Maſtiues hould; the veſtall fires went out,</l>
+               <l>The flame in <hi>Alba</hi> conſecrate to <hi>Joue,</hi>
+               </l>
+               <l>Parted in twaine; and with a double point</l>
+               <l>Roſe like the <hi>Theban</hi> brothers funerall fire;</l>
+               <l>The earth went off hir hinges; And the <hi>Alpes</hi>
+               </l>
+               <l>Shooke the old ſnow from off their trembling laps.</l>
+               <l>The Ocean ſwell'd, as high as Spaniſh <hi>Calpe;</hi>
+               </l>
+               <l>Or <hi>Atlas</hi> head, their ſaints and houſhold gods</l>
+               <l>Sweate teares to ſhew the trauailes of their citty.</l>
+               <l>Crownes fell from holy ſtatues, ominous birds</l>
+               <pb facs="tcp:173806:13"/>
+               <l>Defil'd the day, and wilde beaſtes were ſeene,</l>
+               <l>Leauing the woods lodge in the ſtreetes of Rome.</l>
+               <l>Cattell were ſeene that muttered humane ſpeech:</l>
+               <l>Prodigious birthes with more and vgly iointes</l>
+               <l>Then nature giues, whoſe ſight appauls the mother,</l>
+               <l>And diſmall Prhpheſies were ſpread abroad:</l>
+               <l>And they whom fierce <hi>Bellonaes</hi> fury moues,</l>
+               <l>To wound their armes, ſing vengeance, <hi>Sibils</hi> prieſts,</l>
+               <l>Curling their bloudy lockes, howle dreadfull things,</l>
+               <l>Soules quiet and appeas'd ſight from their graues,</l>
+               <l>Claſhing of armes was heard, in vntrod woods,</l>
+               <l>Shrill voices ſchright, and ghoaſts incounter men,</l>
+               <l>Thoſe that inhabited the ſuburbe fieldes</l>
+               <l>Fled, fowle <hi>Erinnis</hi> ſtalkt about the wals,</l>
+               <l>Shaking her ſnakie haire and crooked pine</l>
+               <l>With flaming toppe, much like that helliſh fiend;</l>
+               <l>Which made the ſterne <hi>Lycurgus</hi> wound his thigh,</l>
+               <l>Or fierce <hi>Agaue</hi> mad; or like <hi>Megaera</hi>
+               </l>
+               <l>That ſcar'd <hi>Alcides,</hi> when by <hi>Junoes</hi> taske</l>
+               <l>He had before lookt <hi>Pluto</hi> in the face,</l>
+               <l>Trumpets were heard to ſound; and with what noiſe</l>
+               <l>An armed battaile ioines, ſuch and more ſtrange</l>
+               <l>Blacke night brought forth in ſecret: <hi>Sylla's</hi> ghoſt</l>
+               <l>Was ſeene to walke, ſinging ſad Oracles,</l>
+               <l>And <hi>Marius</hi> head aboue cold <hi>Tau'ron</hi> peering</l>
+               <l>(His graue broke open) did affright the Boores.</l>
+               <l>To theſe oſtents (as their old cuſtome was)</l>
+               <l>They call th' <hi>Etrurian Augures,</hi> amonſt whom</l>
+               <pb facs="tcp:173806:14"/>
+               <l>The graueſt, <hi>Aruns,</hi> dwelt in forſaken<note n="*" place="margin">or Lunae</note> 
+                  <hi>Leucae</hi>
+               </l>
+               <l>Well skild in <hi>Pyromancy;</hi> one that knew</l>
+               <l>The hearts of beaſts, and flight of wandring foules;</l>
+               <l>Firſt he commands ſuch monſters <hi>Nature</hi> hatcht</l>
+               <l>Againſt her kind (the barren Mules loth'd iſſue)</l>
+               <l>To be cut forth and caſt in diſmall fiers:</l>
+               <l>Then, that the trembling Citizens ſhould walke</l>
+               <l>About the City; then the ſacred prieſts</l>
+               <l>That with diuine luſtration purg'd the wals,</l>
+               <l>And went the round, in, and without the towne.</l>
+               <l>Next, an inferiour troupe, in tuckt vp veſtures;</l>
+               <l>After the <hi>Gabine</hi> manner: then the Nunnes</l>
+               <l>And their vaild Matron, who alone might view</l>
+               <l>
+                  <hi>Mineruas</hi> ſtatue; then, they that keepe, and read</l>
+               <l>
+                  <hi>Sybillas</hi> ſecret works, and waſht their ſaint</l>
+               <l>In <hi>Almo's</hi> floud: Next learned <hi>Augures</hi> follow;</l>
+               <l>
+                  <hi>Apolloes</hi> ſouthſayers, and <hi>Joues</hi> feaſting prieſts;</l>
+               <l>The skipping <hi>Salij</hi> with ſhields like wedges;</l>
+               <l>And <hi>Flamins</hi> laſt, with networke wollen vailes.</l>
+               <l>While theſe thus in and out had circled Roome,</l>
+               <l>Looke what the lightning blaſted, <hi>Aruns</hi> takes</l>
+               <l>And it inters with murmurs dolorous,</l>
+               <l>And cals the place <hi>Bidentall,</hi> on the Altar</l>
+               <l>He laies a ne're-yoakt Bull, and powers downe wine,</l>
+               <l>Then crams ſalt leuin on his crooked knife;</l>
+               <l>The beaſt long ſtruggled, as being like to proue</l>
+               <l>An aukward ſacrifice, but by the hornes</l>
+               <l>The quick prieſt pull'd him on his knees &amp; ſlew him:</l>
+               <pb facs="tcp:173806:14"/>
+               <l>No vaine ſprung out but from the yawning gaſh,</l>
+               <l>In ſteed of red bloud wallowed venemous gore,</l>
+               <l>Theſe direful ſignes made <hi>Aruns</hi> ſtand amaz'd,</l>
+               <l>And ſearching farther for the gods diſpleaſure,</l>
+               <l>The very cullor ſcard him; a dead blackneſſe</l>
+               <l>Ranne through the bloud, that turn'd it all to gelly,</l>
+               <l>And ſtain'd the bowels with darke lothſome ſpots,</l>
+               <l>The liuer ſwell'd with filth: and euery vaine</l>
+               <l>Did threaten horror from the hoſt of <hi>Caeſar;</hi>
+               </l>
+               <l>A ſmall thin skinne contain'd the vital parts,</l>
+               <l>The heart ſtird not, and from the gaping liuer</l>
+               <l>Squis'd matter through the cal; the intralls pearde,</l>
+               <l>And which (aie me) euer pretendeth ill,</l>
+               <l>At that bunch where the liuer is, appear'd</l>
+               <l>A knob of fleſh, whereof one halfe did looke</l>
+               <l>Dead, and diſcoulour'd; th'other leane and thinne.</l>
+               <l>By theſe he ſeeing what myſchiefes muſt enſue,</l>
+               <l>Cride out, O gods! I tremble to vnfould</l>
+               <l>What you intend, great <hi>Joue</hi> is now diſpleas'd,</l>
+               <l>And in the breſt of this ſlaine Bull are crept,</l>
+               <l>Th'infernall powers. My feare tranſcends my words</l>
+               <l>Yet more will happen <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I can vnfold,</l>
+               <l>Turne all to good, be <hi>Augury</hi> vaine, and <hi>Tages</hi>
+               </l>
+               <l>Th'arts maſter falce. Thus in ambiguous tearmes,</l>
+               <l>Inuoluing all, did <hi>Aruns</hi> darkly ſing.</l>
+               <l>But <hi>Figulus</hi> more ſeene in heauenly myſteries,</l>
+               <l>Whoſe like <hi>Aegiptian Memphis</hi> neuer had</l>
+               <l>For skill in ſtars, and tune-full planeting</l>
+               <pb facs="tcp:173806:15" rendition="simple:additions"/>
+               <l>In this ſort ſpake. The worlds ſwift courſe is lawleſſe</l>
+               <l>And caſuall; all the ſtarres at randome radge:</l>
+               <l>Or if <hi>Fate</hi> rule them, Rome thy Cittizens</l>
+               <l>Are neere ſome plague? what miſchiefe ſhall inſue?</l>
+               <l>Shall townes be ſwallowed? ſhall the thickned aire,</l>
+               <l>Become intemperate? ſhall the earth be barraine?</l>
+               <l>Shall water be conieal'd and turn'd to ice?</l>
+               <l>O Gods what death prepare ye? with what plague</l>
+               <l>Meane ye to radge? the death of many men</l>
+               <l>Meetes in one period. If cold noyſome <hi>Saturne</hi>
+               </l>
+               <l>Were now exalted, and with blew beames ſhinde,</l>
+               <l>Then <hi>Gaynimede</hi> would renew <hi>Deucalions</hi> flood,</l>
+               <l>And in the fleeting ſea the earth be drencht.</l>
+               <l>O <hi>Phaebus</hi> ſhouldſt thou with thy rayes now ſing</l>
+               <l>The fell <hi>Nemean</hi> beaſt, th'earth would be fired,</l>
+               <l>And heauen tormented with thy chafing heate,</l>
+               <l>But thy fiers hurt not; <hi>Mars,</hi> 'tis thou enflam'ſt</l>
+               <l>The threatning Scorpion with the burning taile</l>
+               <l>And fier'ſt his cleyes. Why art thou thus enrag'd?</l>
+               <l>Kind <hi>Jupiter</hi> hath low declin'd himſelfe;</l>
+               <l>
+                  <hi>Venus</hi> is faint; ſwift <hi>Hermes</hi> retrograde;</l>
+               <l>
+                  <hi>Mars</hi> onely rules the heauen: <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y doe the Planets</l>
+               <l>Alter their courſe; and vainly dim their vertue?</l>
+               <l>Sword-girt <hi>Orions</hi> ſide gliſters too bright.</l>
+               <l>Wars radge draws neare; &amp; to the ſwords ſtrong ha<g ref="char:cmbAbbrStroke">̄</g>d,</l>
+               <l>Let all Lawes yeeld, ſinne beare the name of vertue,</l>
+               <l>Many a yeare theſe firious broiles let laſt,</l>
+               <l>Why ſhould we wiſh the gods ſhould euer end them?</l>
+               <pb facs="tcp:173806:15"/>
+               <l>War onely giues vs peace, ô Rome continue</l>
+               <l>The courſe of miſchiefe, and ſtretch out the date</l>
+               <l>Of ſlaughter; onely ciuill broiles make peace.</l>
+            </lg>
+            <lg>
+               <l>Theſe ſad preſages were enough to ſcarre</l>
+               <l>The quiuering <hi>Romans,</hi> but worſe things affright them,</l>
+               <l>As <hi>Maenus</hi> full of wine on <hi>Pindus</hi> raues,</l>
+               <l>So runnes a Matron through th'amazed ſtreetes,</l>
+               <l>Diſcloſing <hi>Phoebus</hi> furie in this ſort:</l>
+               <l>
+                  <hi>Pean</hi> whither am I halde? where ſhall I fall?</l>
+               <l>Thus borne aloft I ſee <hi>Pangeus</hi> hill,</l>
+               <l>With hoarie toppe, and vnder <hi>Hemus</hi> mount</l>
+               <l>
+                  <hi>Philippi</hi> plaines; <hi>Phoebus</hi> what radge is this?</l>
+               <l>Why grapples Rome, and makes war, hauing no foes?</l>
+               <l>Whither turne I now? thou lead'ſt me toward th'eaſt,</l>
+               <l>Where <hi>Nile</hi> augmenteth the <hi>Peluſian</hi> ſea:</l>
+               <l>This headleſſe trunke that lies on <hi>Nylus</hi> ſande</l>
+               <l>
+                  <hi>I</hi> know, now throughout the aire I flie,</l>
+               <l>To doubtfull <hi>Sirtes</hi> and drie <hi>Affricke,</hi> where</l>
+               <l>A fury leades the <hi>Emathian</hi> bandes, from thence</l>
+               <l>To the pine bearing hils, hence to the mounts</l>
+               <l>
+                  <hi>Pirene,</hi> and ſo backe to Rome againe.</l>
+               <l>Se impious warre defiles the Senat houſe,</l>
+               <l>New factions riſe; now through the world againe:</l>
+               <l>I goe; ô <hi>Phoebus</hi> ſhew me <hi>Neptunes</hi> ſhore,</l>
+               <l>And other Regions, I haue ſeene <hi>Philippi:</hi>
+               </l>
+               <l>This ſaid being tir'd with fury ſhe ſunke downe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
